@@ -9,6 +9,7 @@ Image generation project built using OpenAI Api and a MongoDB database to store 
 - OpenAI
 - NodeJS
 - MongoDB
+- Heroku (For Deployment)
 
 ---
 
